@@ -1,0 +1,9 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Â À½
+g	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(ÅÕä‰ýÿÿÿÿ8í»Þ¥Ñ0
+]	java:S125"<This block of commented-out lines of code should be removed.(±…íþÿÿÿÿ8ï”¦Ñ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÎÆ¥ùÿÿÿÿ8ëàä¥Ñ0
+j
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(èÄñ¯üÿÿÿÿ
+f
+java:S2095)"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(‹òÐ¢
